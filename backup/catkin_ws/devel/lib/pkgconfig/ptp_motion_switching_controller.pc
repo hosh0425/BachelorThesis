@@ -1,0 +1,8 @@
+prefix=/home/hossein/catkin_ws/devel
+
+Name: ptp_motion_switching_controller
+Description: Description of ptp_motion_switching_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hossein/catkin_ws/devel/lib 
+Requires: 

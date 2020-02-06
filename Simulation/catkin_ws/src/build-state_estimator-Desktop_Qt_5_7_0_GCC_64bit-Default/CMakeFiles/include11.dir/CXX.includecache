@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hossein/catkin_ws/src/build-state_estimator-Desktop_Qt_5_7_0_GCC_64bit-Default/include11_automoc.cpp
+

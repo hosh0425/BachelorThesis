@@ -1,0 +1,2 @@
+aruco_generator:bebop2_command_controller:image_listener:ptp_motion_switching_controller:send_velocity:state_estimator:trajectory:window_node
+-DCATKIN_DEVEL_PREFIX=/home/hossein/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hossein/catkin_ws/install -G Unix Makefiles

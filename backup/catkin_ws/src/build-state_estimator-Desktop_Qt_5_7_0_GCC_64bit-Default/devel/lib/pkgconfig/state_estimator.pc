@@ -1,0 +1,8 @@
+prefix=/home/hossein/catkin_ws/src/build-state_estimator-Desktop_Qt_5_7_0_GCC_64bit-Default/devel
+
+Name: state_estimator
+Description: Description of state_estimator
+Version: 0.0.0
+Cflags: -I/home/hossein/catkin_ws/src/build-state_estimator-Desktop_Qt_5_7_0_GCC_64bit-Default/devel/include
+Libs: -L/home/hossein/catkin_ws/src/build-state_estimator-Desktop_Qt_5_7_0_GCC_64bit-Default/devel/lib 
+Requires: message_runtime

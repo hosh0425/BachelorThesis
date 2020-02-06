@@ -1,0 +1,12 @@
+-I/usr/include/qt4
+-I/usr/include/qt4/QtGui
+-I/usr/include/qt4/QtNetwork
+-I/usr/include/qt4/QtCore
+-DROS_BUILD_SHARED_LIBS=1
+-D$<$<NOT:$<CONFIG:Debug>>:QT_NO_DEBUG>
+-DQT_GUI_LIB
+-DQT_NETWORK_LIB
+-DQT_CORE_LIB
+-o
+/home/hossein/catkin_ws/build/window_node/include/moc_detectwindow.cxx
+/home/hossein/catkin_ws/src/window_node/include/detectwindow.h

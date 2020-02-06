@@ -1,0 +1,11 @@
+-I/usr/include/qt4
+-I/usr/include/qt4/QtGui
+-I/usr/include/qt4/QtNetwork
+-I/usr/include/qt4/QtCore
+-D$<$<NOT:$<CONFIG:Debug>>:QT_NO_DEBUG>
+-DQT_GUI_LIB
+-DQT_NETWORK_LIB
+-DQT_CORE_LIB
+-o
+/home/hossein/catkin_ws/src/build-state_estimator-Desktop_Qt_5_7_0_GCC_64bit-Default/include/moc_state_estimator.cxx
+/home/hossein/catkin_ws/src/state_estimator/include/state_estimator.h

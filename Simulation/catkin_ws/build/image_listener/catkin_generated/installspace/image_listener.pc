@@ -1,0 +1,8 @@
+prefix=/home/hossein/catkin_ws/install
+
+Name: image_listener
+Description: Description of image_listener
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hossein/catkin_ws/install/lib 
+Requires: 

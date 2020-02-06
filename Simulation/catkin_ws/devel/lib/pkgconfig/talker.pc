@@ -1,0 +1,8 @@
+prefix=/home/hossein/catkin_ws/devel
+
+Name: talker
+Description: Description of talker
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hossein/catkin_ws/devel/lib 
+Requires: 

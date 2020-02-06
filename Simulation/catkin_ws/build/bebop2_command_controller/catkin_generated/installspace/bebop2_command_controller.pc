@@ -1,0 +1,8 @@
+prefix=/home/hossein/catkin_ws/install
+
+Name: bebop2_command_controller
+Description: Description of bebop2_command_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hossein/catkin_ws/install/lib 
+Requires: 

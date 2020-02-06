@@ -1,0 +1,17 @@
+int16 data
+int16 vmin
+int16 vmax
+int16 smin
+int16 erosion_element
+int16 erosion_kernel
+int16 dilation_element
+int16 dilation_kernel
+bool mode
+bool hist_17
+bool hist_18
+bool hist_19
+bool hist_20
+bool hist_21
+bool hist_22
+int16 swich
+bool rst

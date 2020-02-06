@@ -1,0 +1,8 @@
+prefix=/home/hossein/catkin_ws/install
+
+Name: window_node
+Description: Description of window_node
+Version: 0.0.0
+Cflags: -I/home/hossein/catkin_ws/install/include
+Libs: -L/home/hossein/catkin_ws/install/lib 
+Requires: message_runtime

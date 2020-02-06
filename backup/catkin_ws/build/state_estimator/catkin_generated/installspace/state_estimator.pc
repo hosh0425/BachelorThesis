@@ -1,0 +1,8 @@
+prefix=/home/hossein/catkin_ws/install
+
+Name: state_estimator
+Description: Description of state_estimator
+Version: 0.0.0
+Cflags: -I/home/hossein/catkin_ws/install/include
+Libs: -L/home/hossein/catkin_ws/install/lib 
+Requires: message_runtime
